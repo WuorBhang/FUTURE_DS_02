@@ -1,56 +1,78 @@
-# Social Media Sentiment Analysis – Task 1
+# 📊 Social Media Sentiment Analysis – Task 1
 
-## Overview
+## 📌 Overview
 
-This project analyzes social media sentiment using both Jupyter Notebook for preprocessing and Power BI for data visualization. It is part of the **Future Interns Data Science Program**. The goal is to extract valuable insights from public sentiment on social media platforms, identify key trends, and visualize the results through interactive dashboards.
+This project analyzes social media sentiment using **Jupyter Notebook** for preprocessing and **Power BI** for data visualization. It is part of the **Future Interns Data Science Program** and aims to extract valuable insights from public sentiment, identify key trends, and present findings through interactive dashboards.
 
-## Project Structure
+## 📂 Project Structure
 
-- **Jupyter Notebook**: Contains the preprocessing steps, including data cleaning, tokenization, sentiment analysis, and preparing the dataset for visualization in Power BI.
-- **Power BI Reports**: Visualizations to track sentiment trends, display the sentiment distribution, highlight top positive and negative comments, and identify frequently mentioned words through a word cloud.
-- **GitHub Repository**: Contains all code, visualizations, and resources for the project.
+- **GitHub Repository** 💾: Contains all source code, visualizations, and resources for the project.
+- **Jupyter Notebook** 📝: Performs data preprocessing, including data cleaning, tokenization, sentiment analysis, and dataset preparation for Power BI.
+- **Power BI Reports** 📊: Creates visualizations to track sentiment trends, display sentiment distribution, highlight top positive and negative comments, and generate a word cloud of frequently mentioned words.
 
-## Key Insights
+## 🛠️ Tools & Technologies
+
+- **Jupyter Notebook**: For data preprocessing and sentiment analysis.
+- **Power BI**: For visualization and dashboard creation.
+- **Python Libraries**:
+  - **Pandas** 🐼 – Data manipulation
+  - **NLTK** 🗣 – Sentiment analysis and text processing
+  - **WordCloud** ☁ – Generating word cloud visualizations
+
+## 🔍 Key Insights
 
 ### 1️⃣ Sentiment Distribution Pie Chart 🍰
-The **Sentiment Distribution Pie Chart** visualizes the overall sentiment breakdown of social media posts. This chart provides the percentage of **positive**, **neutral**, and **negative** reviews.
+The **Sentiment Distribution Pie Chart** provides a breakdown of social media post sentiments, showing the percentage of **positive**, **neutral**, and **negative** reviews.
 
 ![Sentiment Distribution Pie Chart](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s2.png)
 
-
 ### 2️⃣ Sentiment Trend Over Time (Line Chart) 📅
-The **Sentiment Trend Over Time** line chart shows the sentiment shift over months. It helps detect how public sentiment has evolved and highlights any significant positive or negative trends.
+This **line chart** visualizes sentiment shifts over time, helping to track public sentiment changes and identify significant trends.
 
-![Sentiment Distribution Pie Chart](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s1.png)
+![Sentiment Trend Over Time](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s1.png)
 
+### 3️⃣ Top Positive & Negative Comments 🏆
+The **Top Positive & Negative Comments** table displays the most extreme sentiment scores, helping businesses identify customer opinions that require attention.
 
-### 4️⃣ Top Positive & Negative Comments 🏆
-The **Top Positive & Negative Comments** table shows the highest and lowest sentiment scores, identifying the best and worst customer feedback. These insights can be used to improve customer relations and understand public perception.
+![Top Positive & Negative Comments](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s3.png)
 
-![Sentiment Distribution Pie Chart](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s3.png)
+## 📈 Business Impact
 
+The **Social Media Sentiment Analysis** offers significant benefits:
+- **Public Perception Monitoring**: Helps brands understand customer sentiment and adjust strategies accordingly.
+- **Customer Pain Points**: Identifies negative feedback trends to improve customer service and brand reputation.
+- **Trending Topics & Issues**: Highlights emerging discussions to enable proactive responses.
+- **Data-Driven Decision Making**: Supports marketing and customer support teams in making informed decisions.
 
-## Business Impact 📈
-
-The **Social Media Sentiment Analysis** has several critical business implications:
-- **Public Perception Monitoring**: Brands can monitor how their products/services are perceived and adjust strategies based on sentiment trends.
-- **Customer Pain Points**: Negative sentiment insights help businesses identify and address customer pain points, leading to improved customer service and brand loyalty.
-- **Trending Topics & Issues**: The analysis highlights emerging issues and trending topics, allowing businesses to react proactively in real-time.
-- **Data-Driven Decision Making**: Insights from sentiment analysis support marketing and customer service teams in making informed, data-driven decisions.
-
-## Tools & Technologies
-
-- **Jupyter Notebook**: Used for data preprocessing, sentiment analysis, and data transformation.
-- **Power BI**: For visualizing the sentiment analysis results and creating interactive dashboards.
-- **Python Libraries**:
-  - **Pandas** for data manipulation
-  - **NLTK** for sentiment analysis and text processing
-  - **WordCloud** for generating word cloud visualizations
-
-## Setup
+## ⚙️ Setup Guide
 
 To replicate this analysis, follow these steps:
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Daltone123/FUTURE_DS_01.git
+git clone https://github.com/WuorBhang/FUTURE_DS_02.git
+```
+
+### 2️⃣ Install Dependencies
+Ensure you have Python installed, then install required libraries:
+```bash
+pip install pandas nltk wordcloud
+```
+
+### 3️⃣ Run the Jupyter Notebook
+Launch Jupyter Notebook and open the sentiment analysis notebook:
+```bash
+jupyter notebook
+```
+
+### 4️⃣ Load the Data into Power BI
+Use Power BI to visualize the processed data and generate interactive reports.
+
+## 📩 Contact & Contribution
+
+Feel free to contribute or reach out for collaboration:
+- **Author**: Wuor Bhang
+- **Email**: [uhuribhang211@gmail.com]
+- **GitHub**: [WuorBhang](https://github.com/WuorBhang)
+
+🔗 *Let's connect and analyze the power of social media sentiment together!* 🚀
