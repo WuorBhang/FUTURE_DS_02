@@ -72,7 +72,7 @@ Use Power BI to visualize the processed data and generate interactive reports.
 
 Feel free to contribute or reach out for collaboration:
 - **Author**: Wuor Bhang
-- **Email**: [uhuribhang211@gmail.com]
+- **Email**: uhuribhang211@gmail.com
 - **GitHub**: [WuorBhang](https://github.com/WuorBhang)
 
 🔗 *Let's connect and analyze the power of social media sentiment together!* 🚀
