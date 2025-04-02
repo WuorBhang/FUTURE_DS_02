@@ -24,17 +24,17 @@ This project analyzes social media sentiment using **Jupyter Notebook** for prep
 ### 1️⃣ Sentiment Distribution Pie Chart 🍰
 The **Sentiment Distribution Pie Chart** provides a breakdown of social media post sentiments, showing the percentage of **positive**, **neutral**, and **negative** reviews.
 
-![Sentiment Distribution Pie Chart](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s2.png)
+![Sentiment Distribution Pie Chart](https://github.com/WuorBhang/FUTURE_DS_02/raw/main/sentiment1.png)
 
 ### 2️⃣ Sentiment Trend Over Time (Line Chart) 📅
 This **line chart** visualizes sentiment shifts over time, helping to track public sentiment changes and identify significant trends.
 
-![Sentiment Trend Over Time](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s1.png)
+![Sentiment Trend Over Time](https://github.com/WuorBhang/FUTURE_DS_02/raw/main/sentiment2.png)
 
 ### 3️⃣ Top Positive & Negative Comments 🏆
 The **Top Positive & Negative Comments** table displays the most extreme sentiment scores, helping businesses identify customer opinions that require attention.
 
-![Top Positive & Negative Comments](https://github.com/Daltone123/FUTURE_DS_01/raw/main/s3.png)
+![Top Positive & Negative Comments](https://github.com/WuorBhang/FUTURE_DS_02/raw/main/sentiment3.png)
 
 ## 📈 Business Impact
 
@@ -72,7 +72,7 @@ Use Power BI to visualize the processed data and generate interactive reports.
 
 Feel free to contribute or reach out for collaboration:
 - **Author**: Wuor Bhang
-- **Email**: [uhuribhang211@gmail.com]
+- **Email**: [your-email@example.com]
 - **GitHub**: [WuorBhang](https://github.com/WuorBhang)
 
 🔗 *Let's connect and analyze the power of social media sentiment together!* 🚀
